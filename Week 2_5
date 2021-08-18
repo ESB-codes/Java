@@ -1,0 +1,16 @@
+// Complete the code segment to debug / complete the program which is intended to print 'NPTEL JAVA'.
+
+//Declare variable with name 'nptel', 'space' and 'java' and proper datatype.
+
+
+//Initialize the variables with proper input
+//Declare variable with name 'nptel', 'space' and 'java' and proper datatype.
+    	String nptel= "NPTEL";
+    	
+    	String space= " ";
+    	
+    	String java="JAVA";
+
+     System.out.print(nptel+space+java);
+   }
+}
